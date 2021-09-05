@@ -1,0 +1,28 @@
+.lead {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-bottom: 64px;
+    min-width: 320px;
+}
+
+@media screen and (min-width: 768px){
+    .lead {
+        padding-bottom: 88px;
+        min-width: 768px;
+    }
+}
+
+@media screen and (min-width: 1024px){
+    .lead {
+        padding-bottom: 92px;
+        min-width: 1024px;
+    }
+}
+
+@media screen and (min-width: 1280px){
+    .lead {
+        max-width: 1280px;
+    }
+}

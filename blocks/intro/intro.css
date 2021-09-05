@@ -1,0 +1,33 @@
+.intro {
+    padding-bottom: 64px;
+    padding-left: 16px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    min-width: 320px;
+}
+
+@media screen and (min-width: 768px) {
+    .intro {
+        padding-bottom: 88px;
+        padding-left: 24px;
+        min-width: 768px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .intro {
+        padding-bottom: 92px;
+        padding-left: 48px;
+        min-width: 1024px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .intro {
+        padding-bottom: 92px;
+        padding-left: 148px;
+        max-width: 1280px;
+    }
+}

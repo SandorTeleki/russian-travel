@@ -1,0 +1,4 @@
+.place__description {
+    grid-area: paragraph;
+    grid-gap: 25px;
+}

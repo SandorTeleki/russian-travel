@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    min-width: 288px;
+    padding: 16px 16px 48px 16px;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+@media screen and (min-width: 720px) {
+    .header {
+        padding: 28px 24px 48px 24px;
+    }
+}
+
+@media screen and (min-width: 928px) {
+    .header {
+        padding: 28px 48px 48px 48px;
+    }
+}
+
+@media screen and (min-width: 1186px) {
+    .header {
+        padding: 28px 48px 56px 48px;
+    }
+}

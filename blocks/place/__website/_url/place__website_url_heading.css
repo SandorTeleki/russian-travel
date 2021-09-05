@@ -1,0 +1,16 @@
+.place__website_url_heading {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 12px;    
+    letter-spacing: 2px;
+    color: #aaa;  
+    margin: 0;
+    margin-bottom: 12px;
+}
+
+@media screen and (min-width: 1024px){
+    .place__website_url_heading {
+        line-height: 20px; 
+    }
+}
