@@ -5,6 +5,8 @@
     align-items: center;
     min-width: 320px;
     min-height: 200px;
+    background: #2A2C2F;
+    opacity: 0.3;
 }    
 
 @media screen and (min-width: 768px){
@@ -27,11 +29,6 @@
         max-width: 1280px;
         max-height: 740px;
     }
-}
-
-.cover__overlay{
-    background: #2A2C2F;
-    opacity: 0.3;
 }
 
 .cover__overlay:hover {
