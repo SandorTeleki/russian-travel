@@ -1,5 +1,6 @@
 .cover__background {
     display: flex;
+    justify-content: center;
     background-image: url('../../../sprint-3-images/cover-trains.jpg');
     text-decoration: none;
     min-width: 320px;
@@ -10,14 +11,14 @@
 
 @media screen and (min-width: 768px){
     .cover__background {
-        min-width: 768px;
+        min-width: calc(768px - 5vw);
         min-height: 480px;
     }
-}
+} 
 
 @media screen and (min-width: 1024px){
     .cover__background {
-        min-width: 1024px;
+        min-width: calc(1024px - 5vw);
         min-height: 640px;
     }
 }
