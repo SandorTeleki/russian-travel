@@ -9,6 +9,7 @@
     color: #fff;
     padding-bottom: 16px;
     min-width: 288px;
+    position: relative;
 }
 
 @media screen and (min-width: 768px){

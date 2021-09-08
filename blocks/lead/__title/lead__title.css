@@ -12,9 +12,9 @@
 
 @media screen and (min-width: 720px) {
     .lead__title {
-    font-size: 96px;
-    line-height: 100px;
-    padding-bottom: 32px;
-    max-width: 720px;
+        font-size: 96px;
+        line-height: 100px;
+        padding-bottom: 32px;
+        max-width: 720px;
     }
 }
