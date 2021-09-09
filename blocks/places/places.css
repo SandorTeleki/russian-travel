@@ -1,12 +1,10 @@
 .places {
     padding-top: 64px;
     padding-bottom: 66px;
-    padding-left: 16px;
     min-width: 320px;
     display: flex;
     flex-direction: column;
     align-self: center;
-    margin: 0 auto;
     box-sizing: border-box;
 }
 

@@ -1,4 +1,12 @@
 .place__description {
     grid-area: paragraph;
     grid-gap: 25px;
+    padding-left: 16px;
+}
+
+@media screen and (min-width: 768px) {
+    .place__description {
+        padding-left: 0;
+        max-width: 352px;
+    }
 }

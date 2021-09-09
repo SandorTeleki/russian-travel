@@ -1,13 +1,19 @@
 .intro {
     padding-bottom: 64px;
     padding-left: 16px;
-    margin: 0 auto;
+    margin: 0;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     min-width: 320px;
-    width: 100%;
+    width: calc(100% - 16px);
     box-sizing: border-box;
+}
+
+@media screen and (max-width:767px) {
+    .intro {
+        align-items: center;
+    }
 }
 
 @media screen and (min-width: 768px) {
@@ -18,6 +24,7 @@
     }
 }
 
+
 @media screen and (min-width: 1024px) {
     .intro {
         padding-bottom: 92px;
@@ -25,6 +32,8 @@
         min-width: calc(1024px - 48px);
     }
 }
+
+
 
 @media screen and (min-width: 1280px) {
     .intro {

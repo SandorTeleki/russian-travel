@@ -5,6 +5,7 @@
     line-height: 22px;
     text-decoration-line: underline;
     color: #fff;
+    cursor: url('../../../sprint-3-images/Pointer.svg'), pointer;
 }
 
 .place__url-link:hover {

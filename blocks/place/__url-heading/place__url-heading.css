@@ -11,7 +11,7 @@
 }
 
 @media screen and (min-width: 1024px){
-    .place__website_url_heading {
+    .place__url-heading {
         line-height: 20px; 
     }
 }
