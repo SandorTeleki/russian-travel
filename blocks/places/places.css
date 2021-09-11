@@ -8,6 +8,12 @@
     box-sizing: border-box;
 }
 
+@media screen and (min-width: 321px) and (max-width:767px) {
+    .places {
+        align-items: center;
+    }
+}
+
 @media screen and (min-width: 768px) {
     .places {
         padding: 88px 24px 17px 24px;
@@ -30,7 +36,7 @@
     }
 }
 
-@media screen and (min-width: 1281px) {
+@media screen and (min-width: 1440px) {
     .places {
         margin: 0 auto;
         padding-left: 67px;
