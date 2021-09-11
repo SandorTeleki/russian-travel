@@ -14,28 +14,29 @@
     cursor: url('../../../sprint-3-images/Pointer.svg'), pointer;
 }
 
-@media screen and (min-width: 768px){
+@media screen and (min-width: 768px) {
     .cover__background {
-        /* min-width: 768px; */
+        min-width: calc(768px - 18px);
         min-height: 480px;
     }
 } 
 
-@media screen and (min-width: 1024px){
+@media screen and (min-width: 1024px) {
     .cover__background {
-        min-width: 1024px;
+        min-width: calc(1024px - 18px);
         min-height: 640px;
     }
 }
 
-@media screen and (min-width: 1280px){
+@media screen and (min-width: 1280px) {
     .cover__background {
         max-width: 1184px;
+        min-height: 740px;
         margin: 0 auto;
     }
 }
 
-.cover__background::before{
+.cover__background::before {
     background-color: rgba(42, 44, 47, 0.3);
     content: '';
     position: absolute;

@@ -7,11 +7,11 @@
     line-height: 16px;
     text-align: center;
     color: #fff;
-    min-width: 288px;
+    max-width: 288px;
     position: relative;
 }
 
-@media screen and (min-width:768px){
+@media screen and (min-width:768px) {
     .cover__subtitle {
         font-size: 18px;
         line-height: 22px;

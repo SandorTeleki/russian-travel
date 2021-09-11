@@ -2,13 +2,13 @@
     padding-bottom: 64px;
 }
 
-@media screen and (min-width: 768px){
+@media screen and (min-width: 768px) {
     .cover {
         padding-bottom: 88px;
     }
 }
 
-@media screen and (min-width: 1024px){
+@media screen and (min-width: 1024px) {
     .cover {
         padding-bottom: 92px;
     }

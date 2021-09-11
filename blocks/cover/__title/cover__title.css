@@ -8,11 +8,11 @@
     text-align: center;
     color: #fff;
     padding-bottom: 16px;
-    min-width: 288px;
+    max-width: 288px;
     position: relative;
 }
 
-@media screen and (min-width: 768px){
+@media screen and (min-width: 768px) {
     .cover__title {
         font-size: 72px;
         line-height: 76px;

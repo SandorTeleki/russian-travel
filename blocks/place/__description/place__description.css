@@ -10,3 +10,15 @@
         max-width: 352px;
     }
 }
+
+@media screen and (min-width: 1024px) {
+    .place__description {
+        max-width: 456px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .place__description {
+        max-width: 484px;
+    }
+}

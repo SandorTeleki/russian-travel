@@ -5,16 +5,30 @@
     line-height: 163%;
     color: #fff;
     margin: 0;
-    margin-bottom: 25px;
+    padding-bottom: 25px;
+    max-width: 288px;
 }
 
-@media screen and (min-width: 1024px){
+@media screen and (min-width: 768px) {
+    .place__paragraph {
+        max-width: 352px;
+    } 
+}
+
+@media screen and (min-width: 1024px) {
     .place__paragraph {
         font-size: 18px;
-        margin-bottom: 27px;
+        padding-bottom: 27px;
+        max-width: 456px;
+    } 
+}
+
+@media screen and (min-width: 1024px) {
+    .place__paragraph {
+        max-width: 484px;
     } 
 }
 
 .place__paragraph:last-child {
-    margin-bottom: 0;
+    padding-bottom: 0;
 }
