@@ -1,3 +1,5 @@
+(English description below)
+
 # Проект: Путешествие по России
 
 ### Описание проекта:
@@ -13,3 +15,19 @@
 Страница на Github: https://sandorteleki.github.io/russian-travel/
 &copy; 2021 Шандор Телеки
 
+---------------------------------------
+
+# Project: Russian Travel
+
+### Project description:
+Project about a trip across Russia. Project mockup was provided through Figma.
+Supports screenwidths: 320, 768, 1024 and 1280px. Using: grid, flex, transition, opacity and hover.
+
+### System requirements for viewing the project:
+Code written in HMTL5 and the page should work in all major browsers at most standard screen sizes.
+
+### Plans for further improvement:
+None for the moment.
+
+Page is hosted through Github pages: https://sandorteleki.github.io/russian-travel/
+&copy; 2021 Sandor Teleki
