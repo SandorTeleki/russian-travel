@@ -4,6 +4,9 @@
 @import url(../blocks/body/body.css);
 @import url(../blocks/page/page.css);
 
+@import url(../blocks/english/english.css);
+@import url(../blocks/russian/russian.css);
+
 /* Header */
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
