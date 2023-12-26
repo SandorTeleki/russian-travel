@@ -2,10 +2,12 @@ const russianButton = document.getElementById('russianButton');
 const russianSection = document.getElementById('russian-section');
 const englishButton = document.getElementById('englishButton');
 const englishSection = document.getElementById('english-section');
-const year = document.getElementById("year");
+const yearRU = document.getElementById("year-ru");
+const yearEN = document.getElementById("year-en");
 
 const currentYear = new Date().getFullYear();
-year.innerText = `©${currentYear}`
+yearRU.innerText = `©${currentYear} `;
+yearEN.innerText = `©${currentYear} `;
 
 russianButton.addEventListener('click', () => {
     russianButton.classList.add("header__lang-link_active");
