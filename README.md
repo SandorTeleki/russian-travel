@@ -4,7 +4,7 @@
 
 ### Описание проекта:
 Проект о путешествии по России. Макет верстки из Figma. На двух языках (русский и ангиский).  
-Параметры и технологии: Разшерение: 320, 768, 1024 и 1280px. Используються: grid, flex, transition, opacity и hover.
+Разшерение: 320px, 768px, 1024px и 1280px. Используються: grid, flex, transition, opacity и hover.
 
 ### Использованные технологии в проекте:
 Код написан по HTML5, страница работает в всех главных браузерах на разных разшерение.  
@@ -17,7 +17,7 @@ _(JavaScript добавлено позже чтобы показать год)_
 На данный моменет, некакие.
 
 Страница на Github: https://sandorteleki.github.io/russian-travel/
-&copy; 2023 Шандор Телеки
+&copy; 2021 Шандор Телеки
 
 ---------------------------------------
 
@@ -38,4 +38,4 @@ _(JavaScript added later to update year)_
 None for the moment.
 
 Page is hosted through Github pages: https://sandorteleki.github.io/russian-travel/
-&copy; 2023 Sandor Teleki
+&copy; 2021 Sandor Teleki
