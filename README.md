@@ -6,8 +6,12 @@
 Проект о путешествии по России. Макет верстки из Figma. На двух языках (русский и ангиский).
 Параметры и технологии: Разшерение: 320, 768, 1024 и 1280px. Используються: grid, flex, transition, opacity и hover.
 
-### Инструкция по использованию проекта и системные требования:
+### Использованные технологии в проекте:
 Код написан по HTML5, страница работает в всех главных браузерах на разных разшерение.
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)  
+_(JavaScript добавлено позже чтобы показать год)_
 
 ### Планы по доработке проекта:
 На данный моменет, некакие.
@@ -23,8 +27,12 @@
 Project about a trip across Russia. Project mockup was provided through Figma. Written in Russian and English
 Supports screenwidths: 320, 768, 1024 and 1280px. Using: grid, flex, transition, opacity and hover.
 
-### System requirements for viewing the project:
+### Technologies used:
 Code written in HMTL5 and the page should work in all major browsers at most standard screen sizes.
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)  
+_(JavaScript added later to update year)_
 
 ### Plans for further improvement:
 None for the moment.
