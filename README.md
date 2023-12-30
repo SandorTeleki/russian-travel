@@ -7,7 +7,7 @@
 Параметры и технологии: Разшерение: 320, 768, 1024 и 1280px. Используються: grid, flex, transition, opacity и hover.
 
 ### Использованные технологии в проекте:
-Код написан по HTML5, страница работает в всех главных браузерах на разных разшерение.
+Код написан по HTML5, страница работает в всех главных браузерах на разных разшерение.  
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)  
@@ -28,7 +28,7 @@ Project about a trip across Russia. Project mockup was provided through Figma. W
 Supports screenwidths: 320, 768, 1024 and 1280px. Using: grid, flex, transition, opacity and hover.
 
 ### Technologies used:
-Code written in HMTL5 and the page should work in all major browsers at most standard screen sizes.
+Code written in HMTL5 and the page should work in all major browsers at most standard screen sizes.  
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)  
