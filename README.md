@@ -16,7 +16,7 @@ _(JavaScript добавлено позже чтобы показать год)_
 ### Планы по доработке проекта:
 На данный моменет, некакие.
 
-Страница на Github: https://sandorteleki.github.io/russian-travel/
+Страница на Github: https://sandorteleki.github.io/russian-travel/  
 &copy; 2021 Шандор Телеки
 
 ---------------------------------------
@@ -37,5 +37,5 @@ _(JavaScript added later to update year)_
 ### Plans for further improvement:
 None for the moment.
 
-Page is hosted through Github pages: https://sandorteleki.github.io/russian-travel/
+Page is hosted through Github pages: https://sandorteleki.github.io/russian-travel/  
 &copy; 2021 Sandor Teleki
